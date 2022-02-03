@@ -1,4 +1,4 @@
-# tutorial
+# Catalog App
 
 A new Flutter project.
 
